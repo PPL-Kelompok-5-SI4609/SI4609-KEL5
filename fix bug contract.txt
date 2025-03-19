@@ -1,1 +1,2 @@
 Bug Contract sudah diperbaiki oleh Tahara
+Membuat commit baru
